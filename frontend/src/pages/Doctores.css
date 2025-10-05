@@ -1,0 +1,98 @@
+.page-header {
+  text-align: center;
+  margin-bottom: 40px;
+  color: white;
+}
+
+.page-header h1 {
+  font-size: 36px;
+  margin-bottom: 8px;
+}
+
+.page-header p {
+  font-size: 18px;
+  opacity: 0.9;
+}
+
+.filtros {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 30px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.filtros label {
+  font-weight: 600;
+  color: #333;
+}
+
+.filtro-select {
+  flex: 1;
+  max-width: 400px;
+  padding: 10px;
+  border: 2px solid #e1e8ed;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+.doctor-card {
+  text-align: center;
+}
+
+.doctor-avatar {
+  font-size: 64px;
+  margin-bottom: 16px;
+}
+
+.doctor-card h3 {
+  color: #333;
+  margin-bottom: 12px;
+  font-size: 22px;
+}
+
+.doctor-especialidad {
+  margin-bottom: 16px;
+}
+
+.doctor-info {
+  text-align: left;
+  margin: 20px 0;
+  padding: 16px;
+  background: #f8f9fa;
+  border-radius: 8px;
+}
+
+.doctor-info p {
+  margin-bottom: 8px;
+  color: #555;
+}
+
+.doctor-horarios {
+  text-align: left;
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 2px solid #e1e8ed;
+}
+
+.doctor-horarios h4 {
+  color: #667eea;
+  margin-bottom: 12px;
+  font-size: 16px;
+}
+
+.doctor-horarios ul {
+  list-style: none;
+}
+
+.doctor-horarios li {
+  padding: 8px 0;
+  color: #555;
+  font-size: 14px;
+}
+
+.text-center {
+  text-align: center;
+}
